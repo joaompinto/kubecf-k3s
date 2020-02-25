@@ -30,4 +30,4 @@ cf auth admin "${admin_pass}"
 ```
 ## Known issues
 
-After rebooting the k3s host system, you may need to use k3s-restart-cf.sh to get all the pods in n healthy state
+After rebooting the k3s host system you may need to use k3s-restart-cf.sh to get all the pods in n healthy state
